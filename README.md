@@ -1,2 +1,2 @@
 # dinsarelee.github.io
-sardinelee blog git
+dinsarelee blog git
