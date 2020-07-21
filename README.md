@@ -1,2 +1,2 @@
-# sardinelee.blog.github.io
+# sardinelee.github.io
 sardinelee blog git
