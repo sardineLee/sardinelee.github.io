@@ -1,14 +1,14 @@
 # Site settings
 title: A.P
 baseurl: "/ap"
-url: "https://kssim.github.io"
+url: "https://sardinelee.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: KyeongSeob Sim
+  name: JungA Lee
   desc: Hello nice to meet you
-  email: ksub0912@gmail.com
+  email: sardinelee@naver.com
   selfie: assets/img/profile.jpg
 
 # social
@@ -17,13 +17,13 @@ social:
   behance:
   bitbucket:
   dribbble:
-  facebook: Test
+  facebook: 
   flickr:
-  github: kssim
+  github: sardinelee
   google_plus:
   instagram:
   keybase:
-  linkedin: https://www.linkedin.com/in/kssim/ 
+  linkedin: 
   pinterest:
   reddit:
   soundcloud:
