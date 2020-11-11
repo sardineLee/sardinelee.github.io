@@ -47,42 +47,22 @@
   </div>
 
   <div class="content">
-    <h1 id="about-me">About Me</h1>
-<ul>
-  <li>Firmware And Software Engineer</li>
-  <li>Republic of Korea</li>
-  <li>Use available programming language : C/C++/C#/Java/Android&amp;JNI/Web Front(low level)/JSP&amp;Servlet(low level)/Python(low level)/QT(low level)</li>
-  <li>Server &amp; Client Programming with TCP/IP network</li>
-  <li>Developed SQLite/MS-SQL Database</li>
-  <li>Sub 1GHz
-<br /></li>
-</ul>
+    # About Me
+* Firmware And Software Engineer 
+* Republic of Korea
+<br/>
 
-<h1 id="career">Career</h1>
-<ul>
-  <li>Digital Convergence Technology Engineering House (2013/09 ~ 2016/12)
-    <ul>
-      <li>Developed Program with C/C++</li>
-      <li>Program Language Seminar
-        <ul>
-          <li>Java/C# Basic/Web Front(low level)/JSP&amp;Servlet(low level)</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-  <li>Seronics (2017/08 ~ )
-    <ul>
-      <li>Firmware Program
-        <ul>
-          <li>TI/ST/Microchip/Nuvoton/Silab Tuner/MStar</li>
-        </ul>
-      </li>
-      <li>Software Program</li>
-      <li>System Program</li>
-    </ul>
-  </li>
-</ul>
-
+# Career
+* Digital Convergence Technology Engineering House (2013/09 ~ 2016/12)
+  * Developed Program with C/C++
+  * Program Language Seminar 
+    * Java/C# Basic/HTML,CSS,JS(low level)/JSP&Servlet(low level)
+    
+* Seronics (2017/08 ~ )
+  * Firmware Program
+  * Software Program
+  * System Program
+  
 <!--* Second Company (2012/01 ~ )
   * Web Application Firewall
     * Developed TCP network acceleration module.
@@ -91,22 +71,15 @@
   * VPN Development Company
   * Team Leader of VPN Development Div.-->
 
-<p><br /></p>
+<br/>
 
-<h1 id="interests">Interests</h1>
-<ul>
-  <li>Linux Kernel
-    <ul>
-      <li>IANROOT 17th study group’s member</li>
-      <li>Study alone with book now</li>
-    </ul>
-  </li>
-  <li>Algorythm
-    <ul>
-      <li>Study alone with book and test site</li>
-    </ul>
-  </li>
-</ul>
+# Interests
+* Linux Kernel
+  * IANROOT 17th study group's member
+  * Study alone with book now
+
+* Algorythm
+  * Study alone with book and test site 
 
     </br>
     <div class="social-layer">

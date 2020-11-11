@@ -3,24 +3,40 @@ layout: about
 ---
 
 # About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
-
+* Firmware And Software Engineer 
+* Republic of Korea
+* Use available programming language : C/C++/C#/Java/Android&JNI/Web Front(low level)/JSP&Servlet(low level)/Python(low level)/QT(low level)
+* Server & Client Programming with TCP/IP network
+* Developed SQLite/MS-SQL Database
+* Sub 1GHz
 <br/>
 
 # Career
-* Second Company (2012/01 ~ )
+* Digital Convergence Technology Engineering House (2013/09 ~ 2016/12)
+  * Developed Program with C/C++
+  * Program Language Seminar 
+    * Java/C# Basic/Web Front(low level)/JSP&Servlet(low level)
+    
+* Seronics (2017/08 ~ )
+  * Firmware Program
+    * TI/ST/Microchip/Nuvoton/Silab Tuner/MStar/TDK/ISSI
+  * Software Program
+  * System Program
+  
+<!--* Second Company (2012/01 ~ )
   * Web Application Firewall
     * Developed TCP network acceleration module.
     * Developde Application User Interface.
 * First Company (2011/01 ~ 2011/12)
   * VPN Development Company
-  * Team Leader of VPN Development Div.
+  * Team Leader of VPN Development Div.-->
 
 <br/>
 
 # Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
+* Linux Kernel
+  * IANROOT 17th study group's member
+  * Study alone with book now
+
+* Algorythm
+  * Study alone with book and test site 
