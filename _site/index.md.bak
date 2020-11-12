@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>A.P</title>
+  <title>Sardinelee Portfolio</title>
 
   <!-- CSS -->
   <link rel="stylesheet" href="/assets/css/main.css">
@@ -27,7 +27,7 @@
     <nav class="nav">
       <div class="nav-container">
         <a href="/">
-          <h2 class="nav-title">A.P</h2>
+          <h2 class="nav-title">Sardinelee Portfolio</h2>
         </a>
         <ul>
           <li><a href="/">About</a></li>
@@ -39,10 +39,10 @@
     <main>
       <div class="about">
   <div class="profile">
-    <img class="selfie" alt="JungA Lee" src="assets/img/profile.jpg" />
+    <img class="selfie" alt="Sardinelee" src="assets/img/profile.jpg" />
     <div class="info">
-      <div class="title">JungA Lee</div>
-      <div class="description">Welcome to my portfolio page</div>
+      <div class="title">Sardinelee</div>
+      <div class="description">FW/SW Engineer in Republic Korea</div>
     </div>
   </div>
 
@@ -50,36 +50,52 @@
     # About Me
 * Firmware And Software Engineer 
 * Republic of Korea
+* Graduated from High School at Feb.2013
+* Graduated from Korea Polytechnic University(Electronic Engineering) at Feb.2017 
+* Maintanance language : C/C++/C#/Java/Android&JNI/Web Front(low level)/JSP&Servlet(low level)/Python(low level)/QT(low level)
+* Developed Server & Client Program with TCP network
+* Developed Program with SQLite/MS-SQL Database
+* Developed Embedded system based on Sub-1GHz/Wifi/BLT
 <br/>
 
 # Career
-* Digital Convergence Technology Engineering House (2013/09 ~ 2016/12)
-  * Developed Program with C/C++
+* DCTEH(Digital Convergence Technology Engineering House) : 2013/09 ~ 2016/12
+  * Developed Program with C/C++/Android
+    * MP3 project based on C++ (Toy project)
+    * Multi User File Send System used TCP/IP Communication based on C(Toy project)
+    * Short time alram android application based on Java
   * Program Language Seminar 
-    * Java/C# Basic/HTML,CSS,JS(low level)/JSP&Servlet(low level)
+    * C/C++/MFC/JAVA/C# basic/TCP&IP Communication
+  * Developed Embedded system to control Wall plants's environment with altificail intelligence based on Fuzzy theory
     
-* Seronics (2017/08 ~ )
+* Seronics : 2017/08 ~
   * Firmware Program
+    * Used Chipset: TI/ST/Microchip/Nuvoton/Silab Tuner/MStar/TDK/ISSI
+    * Used OS: C base None-OS Embedded System/ RTOS(TI)/ AOSP
+    * Developed LED Bar to express AI Work
+    * Developed LED CrashPad to express car motion
+    * Developed Doortrim's Haptic touch button for controlling car windows and side mirror 
+    * Developed Home appliance like Kitchen TV, RadioPhone and BathPhone which is used Homenet Communication
+    * Developed Toy Project
+      * Short time Voice Record and Play Embedded system.
+      * Refrigerator display using LED and haptic touch Button
   * Software Program
-  * System Program
-  
-<!--* Second Company (2012/01 ~ )
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.-->
+    * Developed C# base Automatic Production Monitoring Program
+    * Controled Automatic Production System(PLC + Monitoring Program + MES)
+    * Developed Android Application using in Android TV
+    * Developed Toy Project
+      * Real-time transmission technology of camera video and sound based on Python and Android Application
+      
 
 <br/>
 
 # Interests
 * Linux Kernel
-  * IANROOT 17th study group's member
-  * Study alone with book now
+  * IAMROOT 17th study group's member
+  * Study alone with book
 
 * Algorythm
-  * Study alone with book and test site 
+  * Study alone with book and test web site 
 
     </br>
     <div class="social-layer">
@@ -166,7 +182,7 @@
 
     <footer>
       <span>
-        &copy; <time datetime="2020-11-11 18:17:37 +0900">2020</time> JungA Lee. <a href="https://github.com/kssim/about-portfolio/">A.P</a> theme by kssim.
+        &copy; <time datetime="2020-11-12 11:04:16 +0900">2020</time> Sardinelee. <a href="https://github.com/kssim/about-portfolio/">A.P</a> theme by kssim.
       </span>
     </footer>
   </body>
