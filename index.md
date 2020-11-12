@@ -16,7 +16,7 @@ layout: about
 <br/>
 
 # Career
-* DCTEH(Digital Convergence Technology Engineering House) : 2013/09 ~ 2016/12
+* DCTEH(Digital Convergence Technology Engineering House) : 2013/09 ~ 2015/12
   * Developed Program with C/C++/Android
     * MP3 project based on C++ (Toy project)
     * Multi User File Send System used TCP/IP Communication based on C(Toy project)
