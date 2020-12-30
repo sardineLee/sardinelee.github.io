@@ -7,7 +7,7 @@ layout: about
 * Republic of Korea
 * Graduated from High School at Feb.2013
 * Graduated from Korea Polytechnic University(Electronic Engineering) at Feb.2017 
-* Maintanance language : C/C++/C#/Java/Android&JNI/Web Front(low level)/JSP&Servlet(low level)/Python(low level)/QT(low level)
+* language : C/C++/C#/Java/Android&JNI/Web Front(low level)/JSP&Servlet(low level)/Python(low level)/QT(low level)
 * Developed Server & Client Program with TCP network
 * Developed Program with SQLite/MS-SQL Database
 * Developed Embedded system based on Sub-1GHz/Wifi/BLT
